@@ -82,3 +82,17 @@ div{
 	color: #171717;
 	size: 16px;
 }
+.h3-style{
+	padding-top: 18px;
+	padding-left: 57px;
+	padding-right: 77px;
+	padding-bottom: 18px;
+	margin: auto;
+	max-width: 951px;
+	width: 100%;
+	color: #FFFFFF;
+	size: 16px;
+	background-color: #0A22F4;
+	border-radius: 28px;
+	text-align: center;
+}
